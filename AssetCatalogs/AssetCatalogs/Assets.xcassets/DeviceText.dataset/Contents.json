@@ -1,0 +1,33 @@
+{
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "data" : [
+    {
+      "idiom" : "iphone",
+      "filename" : "small-device.txt",
+      "universal-type-identifier" : "public.plain-text"
+    },
+    {
+      "idiom" : "ipad",
+      "filename" : "big-device.txt",
+      "universal-type-identifier" : "public.plain-text"
+    },
+    {
+      "idiom" : "watch",
+      "filename" : "small-device-1.txt",
+      "universal-type-identifier" : "public.plain-text"
+    },
+    {
+      "idiom" : "tv",
+      "filename" : "big-device-1.txt",
+      "universal-type-identifier" : "public.plain-text"
+    },
+    {
+      "idiom" : "mac",
+      "filename" : "big-device-2.txt",
+      "universal-type-identifier" : "public.plain-text"
+    }
+  ]
+}
